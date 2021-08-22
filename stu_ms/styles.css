@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(135, 222, 238);
+}
+
+table {
+    border-radius: 5px;
+}
+
+tr {
+    background-color: rgba(252, 226, 162, 0.397);
+    border-radius: 5px;
+    border-collapse: collapse;
+
+}
+
+td {
+    color: rgb(0, 0, 0);
+    font-size: larger;
+
+}
+
+.form {
+    background-color: blueviolet;
+    border: 5px solid forestgreen;
+    height: 350px;
+    background-repeat: no-repeat;
+    border-collapse: collapse;
+
+}
+
+ul {
+    list-style-type: none;
+    display: inline-flex;
+}
+
+li {
+    margin-right: 20px;
+    
+}
+
+a {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.submit {
+    background-color: rgb(94, 255, 0);
+}
+
+h1 {
+    background-color: rgb(65, 181, 235);
+    color: white;
+}
